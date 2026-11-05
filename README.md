@@ -1,5 +1,11 @@
 # Open WebUI (Formerly Ollama WebUI) 👋
 
+## About
+- **What it is:** An unchanged copy of Open WebUI, a self-hosted chat website for AI models.
+- **Business:** learning
+- **Status:** inactive since 2024-07
+- **Source:** agent research 2026-11-04
+
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/open-webui/open-webui?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/open-webui/open-webui?style=social)
